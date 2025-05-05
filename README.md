@@ -10,7 +10,7 @@
 <br><br>
 
 
-## 🛠️ GitHub Stats
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jordannachris&show_icons=true&theme=ambient_gradient&hide_border=true)
 <br>
 
